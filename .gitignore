@@ -42,7 +42,6 @@ tmp
 
 Thumbs.db
 .DS_Store
-*.js
 *.map
 *.d.ts
 bundles
